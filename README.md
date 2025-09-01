@@ -25,18 +25,12 @@ This frontend connects to the backend API located at: [https://github.com/Seyran
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/Seyran-Petrosyan/analyzer-frontend.git
-cd analyzer-frontend
-```
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Start the development server:
+2. Start the development server:
 ```bash
 npm run dev
 ```
